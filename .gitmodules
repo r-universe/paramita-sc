@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "risksetROC"]
+	path = risksetROC
+	url = https://github.com/cran/risksetROC
+	shallow = true
+	registered = true
+[submodule "survivalROC"]
+	path = survivalROC
+	url = https://github.com/cran/survivalROC
+	shallow = true
+	registered = true
